@@ -96,7 +96,7 @@
             "Day": "Machop (30%), Rhyhorn (20%), Ponyta (20%), Phanpy (20%), Larvitar (10%)",
             "Night": "Machop (30%), Rhyhorn (20%), Ponyta (20%), Phanpy (20%), Larvitar (10%)",
             "Poké Radar": "Stantler (22%)",
-            "Honey": "Tree  Aipom (30%), Slakoth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)"
+            "Honey Tree": "Aipom (30%), Slakoth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)"
         },
         "Oreburgh Mine ~ 1F": {
             "Levels": "9 - 10 (Walking)",
@@ -127,11 +127,11 @@
             "Old Rod": "Magikarp (60%), Shellder (30%), Chinchou (10%)",
             "Good Rod": "Magikarp (60%), Shellder (30%), Chinchou (10%)",
             "Super Rod": "Gyarados (60%), Cloyster (30%), Lanturn (10%)",
-            "Honey": "Tree  Aipom (30%), Slakoth (20%), Caterpie (20%), Weedle (20%), Munchlax (10%)"
+            "Honey Tree": "Aipom (30%), Slakoth (20%), Caterpie (20%), Weedle (20%), Munchlax (10%)"
         },
         "Floaroma Meadow": {
             "Levels": "12 (Honey Tree)",
-            "Honey": "Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)"
+            "Honey Tree": "Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)"
         },
         "Route 205 ~ South": {
             "Levels": "11 - 13 (Walking), 20 - 40 (Surfing), 12 (Honey Tree)",
@@ -143,7 +143,7 @@
             "Old Rod": "Magikarp (60%), Shellder (30%), Chinchou (10%)",
             "Good Rod": "Magikarp (60%), Shellder (30%), Chinchou (10%)",
             "Super Rod": "Gyarados (60%), Cloyster (30%), Lanturn (10%)",
-            "Honey": "Tree  Combee (30%), Burmy (20%), Pineco (20%), Wurmple (20%), Heracross (10%)"
+            "Honey Tree": "Combee (30%), Burmy (20%), Pineco (20%), Wurmple (20%), Heracross (10%)"
         },
         "Eterna Forest": {
             "Levels": "14 - 16 (Walking)",
@@ -154,7 +154,7 @@
         },
         "Eterna Forest (Outside)": {
             "Levels": "15 (Honey Tree)",
-            "Honey": "Tree  Beedrill (100%)"
+            "Honey Tree": "Beedrill (100%)"
         },
         "Old Chateau (All Rooms)": {
             "Levels": "15 - 18 (Walking)",
@@ -172,7 +172,7 @@
             "Old Rod": "Magikarp (65%), Corphish (35%)",
             "Good Rod": "Magikarp (65%), Corphish (35%)",
             "Super Rod": "Gyarados (65%), Crawdaunt (35%)",
-            "Honey": "Tree  Starly (30%), Pidgey (20%), Hoothoot (20%), Taillow (20%), Farfetch'd (10%)"
+            "Honey Tree": "Starly (30%), Pidgey (20%), Hoothoot (20%), Taillow (20%), Farfetch'd (10%)"
         },
         "Eterna City": {
             "Levels": "20 - 40 (Surfing)",
@@ -200,7 +200,7 @@
             "Day": "Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Bagon (10%)",
             "Night": "Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Bagon (10%)",
             "Poké Radar": "Tyrogue (22%)",
-            "Honey": "Tree  Aipom (30%), Slakoth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)"
+            "Honey Tree": "Aipom (30%), Slakoth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)"
         },
         "Mt. Coronet ~ Tunnel to Route 211 Entrance": {
             "Levels": "18 - 19 (Walking)",
@@ -237,7 +237,7 @@
             "Day": "Stunky (20%), Slugma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)",
             "Night": "Stunky (20%), Slugma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)",
             "Poké Radar": "Torkoal (22%)",
-            "Honey": "Tree  Combee (30%), Burmy (20%), Pineco (20%), Silcoon (10%), Cascoon (10%), Heracross (10%)"
+            "Honey Tree": "Combee (30%), Burmy (20%), Pineco (20%), Silcoon (10%), Cascoon (10%), Heracross (10%)"
         },
         "Wayward Cave (Both)": {
             "Levels": "20 - 22",
@@ -265,7 +265,7 @@
             "Old Rod": "Magikarp (60%), Goldeen (30%), Remoraid (10%)",
             "Good Rod": "Magikarp (60%), Goldeen (30%), Remoraid (10%)",
             "Super Rod": "Gyarados (60%), Seaking (30%), Octillery (10%)",
-            "Honey": "Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)"
+            "Honey Tree": "Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)"
         },
         "Route 212 ~ North": {
             "Levels": "24 - 26 (Walking), 20 - 40 (Surfing), 25 (Honey Tree)",
@@ -277,7 +277,7 @@
             "Old Rod": "Magikarp (65%), Goldeen (35%)",
             "Good Rod": "Magikarp (65%), Goldeen (35%)",
             "Super Rod": "Gyarados (65%), Seaking (35%)",
-            "Honey": "Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)"
+            "Honey Tree": "Cherubi (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)"
         },
         "Trophy Garden": {
             "Levels": "24 - 26",
@@ -296,7 +296,7 @@
             "Old Rod": "Magikarp (65%), Goldeen (35%)",
             "Good Rod": "Magikarp (65%), Goldeen (35%)",
             "Super Rod": "Gyarados (65%), Seaking (35%)",
-            "Honey": "Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)"
+            "Honey Tree": "Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)"
         },
         "Lost Tower": {
             "Levels": "26 - 30",
@@ -316,7 +316,7 @@
             "Day": "Kricketune (20%), Nuzleaf (20%), Scyther (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Pidgeotto (10%), Rapidash (5%)",
             "Night": "Kricketune (20%), Nuzleaf (20%), Scyther (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Noctowl (10%), Rapidash (5%)",
             "Poké Radar": "Kecleon (22%)",
-            "Honey": "Tree  Combee (30%), Pineco (20%), Silcoon (10%), Cascoon (10%), Wormadam (10%), Mothim (10%), Heracross (10%)"
+            "Honey Tree": "Combee (30%), Pineco (20%), Silcoon (10%), Cascoon (10%), Wormadam (10%), Mothim (10%), Heracross (10%)"
         },
         "Route 215": {
             "Levels": "27 - 30 (Walking), 28 (Honey Tree)",
@@ -324,7 +324,7 @@
             "Day": "Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena (10%), Linoone (10%), Hypno (5%)",
             "Night": "Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena (10%), Linoone (10%), Hypno (5%)",
             "Poké Radar": "Absol (22%)",
-            "Honey": "Tree  Aipom (30%), Vigoroth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)"
+            "Honey Tree": "Aipom (30%), Vigoroth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)"
         },
         "Route 214": {
             "Levels": "28 - 32 (Walking), 20 - 40 (Surfing), 30 (Honey Tree)",
@@ -336,7 +336,7 @@
             "Old Rod": "Magikarp (65%), Goldeen (35%)",
             "Good Rod": "Magikarp (65%), Goldeen (35%)",
             "Super Rod": "Gyarados (65%), Seaking (35%)",
-            "Honey": "Tree  Aipom (30%), Vigoroth (20%), Butterfree (20%), Beedrill (20%), Munchlax (10%)"
+            "Honey Tree": "Aipom (30%), Vigoroth (20%), Butterfree (20%), Beedrill (20%), Munchlax (10%)"
         },
         "Maniac Tunnel": {
             "Levels": "28 - 32",
@@ -361,7 +361,7 @@
             "Old Rod": "Magikarp (60%), Remoraid (30%), Wailmer (10%)",
             "Good Rod": "Magikarp (60%), Remoraid (30%), Wailmer (10%)",
             "Super Rod": "Gyarados (60%), Octillery (30%), Wailord (10%)",
-            "Honey": "Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)"
+            "Honey Tree": "Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)"
         },
         "Pastoria City": {
             "Levels": "20 - 40 (Surfing)",
@@ -410,7 +410,7 @@
             "Old Rod": "Magikarp (60%), Barboach (30%), Remoraid (10%)",
             "Good Rod": "Magikarp (60%), Barboach (30%), Remoraid (10%)",
             "Super Rod": "Gyarados (60%), Whiscash (30%), Octillery (10%)",
-            "Honey": "Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)"
+            "Honey Tree": "Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)"
         },
         "Route 210 ~ North": {
             "Levels": "34 - 38 (Walking), 20 - 40 (Surfing), Honey Tree (37)",
@@ -422,7 +422,7 @@
             "Old Rod": "Magikarp (60%), Horsea (30%), Dratini (10%)",
             "Good Rod": "Magikarp (60%), Horsea (30%), Dratini (10%)",
             "Super Rod": "Gyarados (60%), Seadra (30%), Dragonair (10%)",
-            "Honey": "Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)"
+            "Honey Tree": "Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)"
         },
         "Celestic Town": {
             "Levels": "20 - 40 (Surfing)",
@@ -455,7 +455,7 @@
             "Old Rod": "Krabby (60%), Horsea (30%), Clamperl (10%)",
             "Good Rod": "Krabby (60%), Horsea (30%), Clamperl (10%)",
             "Super Rod": "Kingler (60%), Horsea (30%), Huntail (5%), Gorebyss (5%)",
-            "Honey": "Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)"
+            "Honey Tree": "Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)"
         },
         "Fuego Ironworks": {
             "Levels": "36 - 40 (Walking), 30 - 45 (Surf), 40 (Honey Tree)",
@@ -467,7 +467,7 @@
             "Old Rod": "Magikarp (100%)",
             "Good Rod": "Magikarp (65%), Finneon (35%)",
             "Super Rod": "Gyarados (60%), Lumineon (35%), Shellder (5%)",
-            "Honey": "Tree  Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)"
+            "Honey Tree": "Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)"
         },
         "Route 218": {
             "Levels": "38 - 39 (Walking), 20 - 45 (Surfing), 39 (Honey Tree)",
@@ -478,7 +478,7 @@
             "Old Rod": "Magikarp (60%), Finneon (30%), Staryu (10%)",
             "Good Rod": "Magikarp (60%), Finneon (30%), Staryu (10%)",
             "Super Rod": "Gyarados (60%), Lumineon (30%), Starmie (10%)",
-            "Honey": "Tree  Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)"
+            "Honey Tree": "Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)"
         },
         "Canalave City": {
             "Levels": "30 - 45 (Surfing)",
@@ -620,7 +620,7 @@
             "Night": "Golbat (20%), Haunter (20%), Dusclops (10%), Banette (10%), Bronzong (10%), Chimecho (10%), Lunatone (10%), Solrock (10%)"
         },
         "Route 222": {
-            "Level": "53 - 54 (Walking), 54 (Honey Tree), 35 - 55 (Surfing)",
+            "Honey Tree": "Tangela (30%), Heracross (30%), Farfetch'd (30%), Snorlax (10%)",
             "Morning": "Electabuzz (20%), Floatzel (20%), Luxio (10%), Purugly (10%), Pelipper (10%), Flaaffy (10%), Mr. Mime (10%), Chatot (10%)",
             "Day": "Electabuzz (20%), Floatzel (20%), Luxio (10%), Purugly (10%), Pelipper (10%), Flaaffy (10%), Mr. Mime (10%), Chatot (10%)",
             "Night": "Electabuzz (20%), Floatzel (20%), Luxio (20%), Purugly (10%), Pelipper (10%), Flaaffy (10%), Mr. Mime (10%)",
@@ -628,8 +628,7 @@
             "Surf": "Tentacool (60%), Wingull (30%), Tentacruel (5%), Pelipper (5%)",
             "Old Rod": "Magikarp (60%), Remoraid (30%), Wailmer (10%)",
             "Good Rod": "Magikarp (60%), Remoraid (30%), Wailmer (10%)",
-            "Super Rod": "Gyarados (60%), Wailmer (30%), Octillery (5%), Wailord (5%)",
-            "Honey": "Tree  Tangela (30%), Heracross (30%), Farfetch'd (30%), Snorlax (10%)"
+            "Super Rod": "Gyarados (60%), Wailmer (30%), Octillery (5%), Wailord (5%)"
         },
         "Sunyshore City": {
             "Level": "50 - 60 (Surfing)",
